@@ -30,7 +30,7 @@ const Hero = () => {
         />
 
         <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
-          Hi I&apos;m a Frontend Developer with a passion for creating beautiful and functional web applications. Based in Entebbe Uganda.
+          Hi I&apos;m Enoch, a Frontend Developer with a passion for creating beautiful and functional web applications. Based in Entebbe Uganda.
         </p>
         <a href='#about'>
           <MagicButton
